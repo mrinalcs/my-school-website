@@ -36,7 +36,10 @@ plugins:
 
 permalink: /:title
 
-
+# Include the "pages" directory for Jekyll to process.
+collections:
+  pages:
+    output: true
 
 
 # Exclude from processing.

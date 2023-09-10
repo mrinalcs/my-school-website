@@ -4,6 +4,8 @@
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
+  <link rel="stylesheet" type="text/css" href="/css/flowbite.min.css" />
+  <link rel="icon" href="favicon.png">
   <!-- Add other meta tags as needed -->
   <meta property="og:title" content="{{ page.og_title }}">
   <meta property="og:description" content="{{ page.og_description }}">
